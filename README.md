@@ -1,1 +1,1 @@
-# 42cursus-ft_printf
+The printf project aims to recreate the functionality of the standard printf function in C. This project focuses on text formatting, variable argument handling, and type management, enabling users to output data in various formats. By supporting specific format specifiers (such as %d, %s, %x, etc.), this implementation helps deepen understanding of low-level programming, memory management, and the intricacies of output formatting.
